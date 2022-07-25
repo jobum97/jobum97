@@ -2,5 +2,5 @@
 
 - 📫 How to reach me: brian654321@naver.com or jobum97@cau.au.kr
 
-![jobum97's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobum97&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobum97&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobum97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
