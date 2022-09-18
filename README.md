@@ -6,7 +6,7 @@
 
 ## 📫 How to reach me
  * email : brian654321@naver.com or jobum97@cau.au.kr
- * blog : https://lackofwillpower.tistory.com
+ * blog : [티스토리 블로그](https://lackofwillpower.tistory.com)
  
 ## 📈 Personal History
 
