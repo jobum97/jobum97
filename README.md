@@ -27,10 +27,10 @@
 
 ## 🔑 Technologies Used
 
-* Back-End: Nest.Js(TypeScript), Django(python), Spring(java), PostgreSQL, MySQL, MariaDB
-* Front-End: Android 
-* DevOps: AWS(EC2,S3,VPC,ELB...), Docker, Nginx
-* 협업: Jira, Git, Notion, Trello
+* `Back-End`: Nest.Js(TypeScript), Django(python), Spring(java), PostgreSQL, MySQL, MariaDB
+* `Front-End`: Android 
+* `DevOps`: AWS(EC2,S3,VPC,ELB...), Docker, Nginx
+* `협업`: Jira, Git, Notion, Trello
 
 ## 🎫 Certificate
 * Topcit 수준 3
