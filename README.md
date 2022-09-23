@@ -33,9 +33,9 @@
 * `협업`: Jira, Git, Notion, Trello
 
 ## 🎫 Certificate
-* Topcit 수준 3
-* 정보처리기능사 
-* opic IM2
+* Topcit 수준 3 (2022.05)
+* 정보처리기능사 (2018.11)
+* opic IM2 (2022.09)
 
 ## 📃 RESUME 
 * more about me in [About Me](https://wiggly-basin-4eb.notion.site/ce743a5fc02a46aaa46776d366e3f761)
