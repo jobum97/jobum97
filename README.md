@@ -27,7 +27,7 @@
 
 ## 🔑 Technologies Used
 
-* `Back-End`: Nest.Js(TypeScript), Django(python), Spring(java), PostgreSQL, MySQL, MariaDB
+* `Back-End`: Nest.Js(TypeScript), Spring(java), Django(python), PostgreSQL, MySQL, MariaDB
 * `Front-End`: Android(java)
 * `DevOps`: AWS(EC2,S3,VPC,ELB...), Docker, Nginx
 * `협업`: Jira, Git, Notion, Trello
