@@ -1,5 +1,6 @@
 ## 👋 안녕하세요 조범수입니다 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjobum97&count_bg=%235CCEE5&title_bg=%231C68CF&icon=codeigniter.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+* (현)신한 카드
 * (현)중앙대 소프트웨어학부 (졸업 예정)
 * (전)소프트웨어 마에스트로 13기
 * (전)한국외국어대학교 컴퓨터전자시스템공학부
@@ -16,6 +17,7 @@
 |육군|2017.08 ~ 2019.05|포병 소속 조종수 보직 수행, 만기제대|
 |중앙대학교 소프트웨어학부|2021.03 ~ 2023.02|편입학으로 3학년부터 재학|
 |소프트웨어 마에스트로|2022.04 ~ 2022.11|소프트웨어 마에스트로 13기로 활동|
+|신한 카드|2023.01 ~ ||
 
 ## 🔨 Projects
 
