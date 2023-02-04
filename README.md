@@ -1,7 +1,7 @@
 ## 👋 안녕하세요 조범수입니다 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjobum97&count_bg=%235CCEE5&title_bg=%231C68CF&icon=codeigniter.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 * (현)신한 카드
-* (현)중앙대 소프트웨어학부 (졸업 예정)
+* (전)중앙대 소프트웨어학부
 * (전)소프트웨어 마에스트로 13기
 * (전)한국외국어대학교 컴퓨터전자시스템공학부
 
@@ -21,7 +21,7 @@
 
 ## 🔨 Projects
 
-* WithYou | 육아일기 웹앱 어플리케이션(진행중) | 
+* WithYou | 육아일기 웹앱 어플리케이션 | 
 * CAU비서 | 교내 이벤트 관리 어플리케이션 | https://github.com/CAUSecretary/android
 * savePenguin | 마일리지 적립 어플리케이션 | https://github.com/jobum97/22_savePenguin
 * anyway | 교통약자를 위한 고경사도 회피 길찾기 서비스 | https://github.com/sanggae4133/capstone_1_ANY_WAY
