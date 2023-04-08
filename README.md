@@ -21,7 +21,7 @@
 
 ## 🔨 Projects
 
-* WithYou | 육아일기 웹앱 어플리케이션 | 
+* WithYou | 육아일기 웹앱 어플리케이션 | https://github.com/TeamOneWayTicket/WithYou_BackEnd
 * CAU비서 | 교내 이벤트 관리 어플리케이션 | https://github.com/CAUSecretary/android
 * savePenguin | 마일리지 적립 어플리케이션 | https://github.com/jobum97/22_savePenguin
 * anyway | 교통약자를 위한 고경사도 회피 길찾기 서비스 | https://github.com/sanggae4133/capstone_1_ANY_WAY
