@@ -6,7 +6,7 @@
 * (전)한국외국어대학교 컴퓨터전자시스템공학부
 
 ## 📫 Contacts
- * `Email`: brian654321@naver.com or jobum97@cau.au.kr
+ * `Email`: brian654321@naver.com
  * `Blog`: [티스토리 블로그](https://lackofwillpower.tistory.com)
  
 ## 📈 Personal History
